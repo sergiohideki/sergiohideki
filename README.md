@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 Sou estudante do 7º semestre de Ciência da Computação na UNIP, com foco no desenvolvimento back-end e uma grande motivação para adquirir experiência e expandir meus conhecimentos em diferentes áreas da tecnologia. Estou em busca da minha primeira oportunidade profissional, seja como estagiário, trainee ou em outros papéis que me permitam crescer e contribuir para projetos inovadores.
 
-I am a 6th semester Computer Science student at UNIP, focusing on back-end development and highly motivated to gain experience and expand my knowledge in different areas of technology. I am looking for my first professional opportunity, whether as an intern, trainee or in other roles that allow me to grow and contribute to innovative projects.
+I am a 7th semester Computer Science student at UNIP, focusing on back-end development and highly motivated to gain experience and expand my knowledge in different areas of technology. I am looking for my first professional opportunity, whether as an intern, trainee or in other roles that allow me to grow and contribute to innovative projects.
 
 ## 🖥Tech Stack
 
