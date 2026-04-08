@@ -1,7 +1,11 @@
 ## 👋 Hi there 
-Sou estudante do 7º semestre de Ciência da Computação na UNIP, com foco no desenvolvimento back-end e uma grande motivação para adquirir experiência e expandir meus conhecimentos em diferentes áreas da tecnologia. Estou em busca da minha primeira oportunidade profissional, seja como estagiário, trainee ou em outros papéis que me permitam crescer e contribuir para projetos inovadores.
+Desenvolvedor Full-Stack com experiência na criação de aplicações web modernas e APIs REST, atuando desde o levantamento de requisitos até a entrega de soluções funcionais.
 
-I am a 7th semester Computer Science student at UNIP, focusing on back-end development and highly motivated to gain experience and expand my knowledge in different areas of technology. I am looking for my first professional opportunity, whether as an intern, trainee or in other roles that allow me to grow and contribute to innovative projects.
+Ao longo da minha experiência como freelancer, desenvolvi sistemas utilizando JavaScript, React, Node.js e PostgreSQL, focando em performance, organização de código e boas práticas como Clean Code e arquitetura em camadas. Também participei da construção de interfaces responsivas e da validação de sistemas por meio de testes, garantindo qualidade e consistência nas entregas.
+
+Tenho vivência com metodologias ágeis (Scrum e Kanban), colaborando em ambientes dinâmicos e utilizando ferramentas como Git, Docker e Postman no dia a dia de desenvolvimento.
+
+Atualmente, busco oportunidades como desenvolvedor para aplicar e evoluir minhas habilidades na construção de soluções escaláveis, contribuindo de forma prática para os resultados do negócio.
 
 ## 🖥Tech Stack
 
