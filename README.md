@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 Desenvolvedor Full-Stack com experiência na criação de aplicações web modernas e APIs REST, atuando desde o levantamento de requisitos até a entrega de soluções funcionais.
 
-Ao longo da minha experiência como freelancer, desenvolvi sistemas utilizando JavaScript, React, Node.js e PostgreSQL, focando em performance, organização de código e boas práticas como Clean Code e arquitetura em camadas. Também participei da construção de interfaces responsivas e da validação de sistemas por meio de testes, garantindo qualidade e consistência nas entregas.
+Ao longo da minha experiência como desenvolvedor, desenvolvi sistemas utilizando JavaScript, React, Node.js e PostgreSQL, focando em performance, organização de código e boas práticas como Clean Code e arquitetura em camadas. Também participei da construção de interfaces responsivas e da validação de sistemas por meio de testes, garantindo qualidade e consistência nas entregas.
 
 Tenho vivência com metodologias ágeis (Scrum e Kanban), colaborando em ambientes dinâmicos e utilizando ferramentas como Git, Docker e Postman no dia a dia de desenvolvimento.
 
