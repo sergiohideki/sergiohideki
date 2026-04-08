@@ -5,7 +5,7 @@ Ao longo da minha experiência como desenvolvedor, desenvolvi sistemas utilizand
 
 Tenho vivência com metodologias ágeis (Scrum e Kanban), colaborando em ambientes dinâmicos e utilizando ferramentas como Git, Docker e Postman no dia a dia de desenvolvimento.
 
-Atualmente, busco oportunidades como desenvolvedor para aplicar e evoluir minhas habilidades na construção de soluções escaláveis, contribuindo de forma prática para os resultados do negócio.
+Atualmente, busco oportunidades para aplicar e evoluir minhas habilidades na construção de soluções escaláveis, contribuindo de forma prática para os resultados do negócio.
 
 ## 🖥Tech Stack
 
